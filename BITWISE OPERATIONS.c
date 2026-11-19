@@ -48,7 +48,7 @@ printf("Invalid choice.");
 return 0;
 }
 
-//OUTPUT
+///OUTPUT
 ===== BITWISE OPERATIONS =====
 Enter the first number: 12
 Enter the second number: 5
