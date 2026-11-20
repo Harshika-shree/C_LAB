@@ -153,17 +153,3 @@ Reg.No Name Total Average Grade
 --------------------------------------------------
 101 Arun 433 86.60 B
 
- students[i].average = students[i].total / 5.0;
- if (students[i].average >= 90)
- students[i].grade = 'A';
- else if (students[i].average >= 80)
- students[i].grade = 'B';
- else if (students[i].average >= 70)
- students[i].grade = 'C';
- else if (students[i].average >= 60)
- students[i].grade = 'D';
- else if (students[i].average >= 50)
- students[i].grade = 'E';
- else
- students[i].grade = 'F';
-}
