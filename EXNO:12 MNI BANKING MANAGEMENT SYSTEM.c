@@ -246,7 +246,7 @@ int main()
     return 0;
 }
 
-//OUTPUT
+///OUTPUT
 
 ===== MINI BANKING MANAGEMENT SYSTEM =====
 1. Create Account
