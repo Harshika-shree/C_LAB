@@ -57,7 +57,7 @@ printf("Invalid choice.");
 return 0;
 }
 
-///OUTPUT
+//OUTPUT
 ===== OPERATORS AND EXPRESSIONS =====
 Enter the first number: 20
 Enter the second number: 10
